@@ -48,6 +48,8 @@ A dedicated Q&A section was added in the PDF to demonstrate understanding of the
 ---
 
 # 📊 Task 2: Excel Basics
+## 📷 Preview
+![Excel Preview](https://github.com/ZeroRx/OWL-Data-analyst-intern/blob/main/Screenshot%202026-03-31%20024118.png)
 
 ## 🔹 Objective
 To perform basic data analysis using Microsoft Excel.
